@@ -30,7 +30,7 @@ Your domain is: gmail.com
 
 ## How to Run
 1. Make sure Python is installed on your system.
-2. Save the file as `email_slicer.py`
+2. Save the file as `email-slicer.py`
 3. Run the program using:
 python email_slicer.py
 
